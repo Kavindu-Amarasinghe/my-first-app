@@ -16,7 +16,7 @@ export default function Home() {
           <li className="mb-2">
              New change for dev
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>javascript basics fun.</li>
         </ol>
 
         <div className="flex flex-col items-center gap-4 sm:flex-row">
